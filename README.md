@@ -1,2 +1,2 @@
 # Karaka
-This is a project folder which contains a successfully installed DNN Platform instance.
+This is a project which contains a successfully installed DNN Platform instance.
