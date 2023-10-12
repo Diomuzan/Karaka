@@ -180,34 +180,9 @@
         <section class="page-section portfolio" id="portfolio">
            <div id="ContentPane" runat="server" containertype="G" containername="2shineBS5" containersrc="default.ascx"></div>
         </section>
-        <section class="page-section bg-primary text-white mb-0" id="about">
-            <div class="container">
-                <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
-                <div class="divider-custom divider-light">
-                    <div class="divider-custom-line"></div>
-                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                    <div class="divider-custom-line"></div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 ms-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
-                </div>
-                <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
-                        <i class="fas fa-download me-2"></i>
-                        Free Download!
-                    </a>
-                </div>
-            </div>
-        </section>
         <section class="page-section" id="contact">
             <div class="container">
                 <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Me</h2>
-                <div class="divider-custom">
-                    <div class="divider-custom-line"></div>
-                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                    <div class="divider-custom-line"></div>
-                </div>
                 <div class="row justify-content-center">
                     <div class="col-lg-8 col-xl-7">
                         <!-- * * * * * * * * * * * * * * *-->
@@ -275,7 +250,7 @@
                     </div>
                     <div class="col-lg-4">
                         <h4 class="text-uppercase mb-4 text-light">About Karaka</h4>
-                        <p class="lead mb-0">Karaka is the very first website made in the DNN Platform and lastly the theme Freelancer is used for this website..</p>
+                        <p class="lead mb-0">Karaka is the very first website made in the DNN Platform and lastly the theme Freelancer is used for this website.</p>
                     </div>
                 </div>
             </div>

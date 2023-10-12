@@ -1,2 +1,2 @@
-# JavaScript-Test
-This is a project folder which contains a successfully installed DNN Platform instance.
+# Karaka
+Karaka is the first website created with the DNN Platform and the template Freelancer from Start Bootstrap is also used. Karaka itself is written in HTML, CSS, JavaScript and Bootstrap is also used. The DNN Platform is lastly installed onto the website folder.
