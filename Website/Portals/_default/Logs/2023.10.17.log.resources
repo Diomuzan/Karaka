@@ -1,0 +1,24 @@
+2023-10-17 11:26:45.136+02:00 [Lenovo-Yoga-Slim-7-13ACN5][D:6][T:71][ERROR] DotNetNuke.Services.Exceptions.Exceptions - FriendlyMessage="Error: Content is currently unavailable." ctrl="ASP.desktopmodules_tosic_sexycontent_view_ascx" exc="System.IO.IOException: The file 'C:\Projects\Karaka\Website\Portals\0\2sxc\web.config' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at ToSic.Sxc.Apps.Paths.AppFolderInitializer.<>c__DisplayClass6_0.<EnsureTemplateFolderExists>b__0() in C:\Projects\2sxc\2sxc\Src\Sxc\ToSic.Sxc\Apps\Paths\AppFolderInitializer.cs:line 55
+   at ToSic.Lib.Logging.ILog_Actions.Do(ILog log, String parameters, Func`1 action, Boolean timer, Boolean enabled, String message, String cPath, String cName, Int32 cLine) in C:\Projects\2sxc\eav-server\ToSic.Lib.Core\Logging\Log\ILog_Actions.cs:line 164
+   at ToSic.Sxc.Apps.Paths.AppFolderInitializer.EnsureTemplateFolderExists(AppState appState, Boolean isShared) in C:\Projects\2sxc\2sxc\Src\Sxc\ToSic.Sxc\Apps\Paths\AppFolderInitializer.cs:line 35
+   at ToSic.Sxc.Dnn.Install.DnnReadyCheckTurbo.<>c__DisplayClass4_0.<EnsureSiteIsConfiguredAndTemplateFolderExists>b__0() in C:\Projects\2sxc\2sxc\Src\Dnn\ToSic.Sxc.Dnn.Core\Dnn\Install\DnnReadyCheckTurbo.cs:line 92
+   at ToSic.Lib.Logging.ILog_Actions.Do(ILog log, String parameters, Func`1 action, Boolean timer, Boolean enabled, String message, String cPath, String cName, Int32 cLine) in C:\Projects\2sxc\eav-server\ToSic.Lib.Core\Logging\Log\ILog_Actions.cs:line 164
+   at ToSic.Sxc.Dnn.Install.DnnReadyCheckTurbo.EnsureSiteIsConfiguredAndTemplateFolderExists(PortalModuleBase module, IBlock block) in C:\Projects\2sxc\2sxc\Src\Dnn\ToSic.Sxc.Dnn.Core\Dnn\Install\DnnReadyCheckTurbo.cs:line 80
+   at ToSic.Sxc.Dnn.Install.DnnReadyCheckTurbo.EnsureSiteAndAppFoldersAreReady(PortalModuleBase module, IBlock block) in C:\Projects\2sxc\2sxc\Src\Dnn\ToSic.Sxc.Dnn.Core\Dnn\Install\DnnReadyCheckTurbo.cs:line 69
+   at ToSic.Sxc.Dnn.View.<>c__DisplayClass14_0.<Page_Load>b__3() in C:\Projects\2sxc\2sxc\Src\Dnn\ToSic.Sxc.Dnn\View.ascx.cs:line 93
+   at ToSic.Sxc.Dnn.View.TryCatchAndLogToDnn[TResult](Func`1 action) in C:\Projects\2sxc\2sxc\Src\Dnn\ToSic.Sxc.Dnn\View.ascx.Errors.cs:line 23"
+2023-10-17 11:26:45.169+02:00 [Lenovo-Yoga-Slim-7-13ACN5][D:6][T:71][ERROR] DotNetNuke.Services.Exceptions.Exceptions - System.IO.IOException: The file 'C:\Projects\Karaka\Website\Portals\0\2sxc\web.config' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at ToSic.Sxc.Apps.Paths.AppFolderInitializer.<>c__DisplayClass6_0.<EnsureTemplateFolderExists>b__0() in C:\Projects\2sxc\2sxc\Src\Sxc\ToSic.Sxc\Apps\Paths\AppFolderInitializer.cs:line 55
+   at ToSic.Lib.Logging.ILog_Actions.Do(ILog log, String parameters, Func`1 action, Boolean timer, Boolean enabled, String message, String cPath, String cName, Int32 cLine) in C:\Projects\2sxc\eav-server\ToSic.Lib.Core\Logging\Log\ILog_Actions.cs:line 164
+   at ToSic.Sxc.Apps.Paths.AppFolderInitializer.EnsureTemplateFolderExists(AppState appState, Boolean isShared) in C:\Projects\2sxc\2sxc\Src\Sxc\ToSic.Sxc\Apps\Paths\AppFolderInitializer.cs:line 35
+   at ToSic.Sxc.Dnn.Install.DnnReadyCheckTurbo.<>c__DisplayClass4_0.<EnsureSiteIsConfiguredAndTemplateFolderExists>b__0() in C:\Projects\2sxc\2sxc\Src\Dnn\ToSic.Sxc.Dnn.Core\Dnn\Install\DnnReadyCheckTurbo.cs:line 92
+   at ToSic.Lib.Logging.ILog_Actions.Do(ILog log, String parameters, Func`1 action, Boolean timer, Boolean enabled, String message, String cPath, String cName, Int32 cLine) in C:\Projects\2sxc\eav-server\ToSic.Lib.Core\Logging\Log\ILog_Actions.cs:line 164
+   at ToSic.Sxc.Dnn.Install.DnnReadyCheckTurbo.EnsureSiteIsConfiguredAndTemplateFolderExists(PortalModuleBase module, IBlock block) in C:\Projects\2sxc\2sxc\Src\Dnn\ToSic.Sxc.Dnn.Core\Dnn\Install\DnnReadyCheckTurbo.cs:line 80
+   at ToSic.Sxc.Dnn.Install.DnnReadyCheckTurbo.EnsureSiteAndAppFoldersAreReady(PortalModuleBase module, IBlock block) in C:\Projects\2sxc\2sxc\Src\Dnn\ToSic.Sxc.Dnn.Core\Dnn\Install\DnnReadyCheckTurbo.cs:line 69
+   at ToSic.Sxc.Dnn.View.<>c__DisplayClass14_0.<Page_Load>b__3() in C:\Projects\2sxc\2sxc\Src\Dnn\ToSic.Sxc.Dnn\View.ascx.cs:line 93
+   at ToSic.Sxc.Dnn.View.TryCatchAndLogToDnn[TResult](Func`1 action) in C:\Projects\2sxc\2sxc\Src\Dnn\ToSic.Sxc.Dnn\View.ascx.Errors.cs:line 23

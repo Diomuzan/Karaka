@@ -1,2 +1,2 @@
 # Karaka
-Karaka is the first website created with the DNN Platform and the template Freelancer from Start Bootstrap is also used. Karaka itself is written in HTML, CSS, JavaScript and Bootstrap is also used. The DNN Platform is lastly installed onto the website folder.
+Karaka is the first website created with the DNN Platform and the template Freelancer from Start Bootstrap is also used. It's made for Karaka which is a fictive company based in the beautiful city of Bled in awesome Slovenia. Karaka itself is written in HTML, CSS, JavaScript and Bootstrap is also used. The DNN Platform is lastly installed onto the website folder.
