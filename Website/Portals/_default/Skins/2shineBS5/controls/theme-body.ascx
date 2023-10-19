@@ -90,7 +90,6 @@
     <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
-    <link href="css/styles.css" rel="stylesheet" />
 </head>
 
 <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
@@ -295,6 +294,8 @@
         <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
     </body>
+
+        <script src= "C:/Projects/Karaka/Website/Portals/_default/Skins/2shineBS5/assets/Karaka_Script.js"></script>
 </html>
 
 
@@ -373,3 +374,5 @@
     }
     private string _resPath;
 </script>
+
+
