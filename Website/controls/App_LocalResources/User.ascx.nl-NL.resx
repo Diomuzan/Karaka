@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="plConfirm.Help" xml:space="preserve">
+    <value>Geef je wachtwoord opnieuw in om dit te bevestigen.</value>
+  </data>
+  <data name="plConfirm.Text" xml:space="preserve">
+    <value>Bevestig:</value>
+  </data>
+  <data name="plEmail.Help" xml:space="preserve">
+    <value>Vul hier je e-mailadres in.</value>
+  </data>
+  <data name="plEmail.Text" xml:space="preserve">
+    <value>E-mailadres:</value>
+  </data>
+  <data name="plFirstName.Help" xml:space="preserve">
+    <value>Vul hier je voornaam in.</value>
+  </data>
+  <data name="plFirstName.Text" xml:space="preserve">
+    <value>Voornaam:</value>
+  </data>
+  <data name="plIM.Help" xml:space="preserve">
+    <value>Vul hier je instant messenger id  (MSN, Yahoo!, ICQ, etc.) in.</value>
+  </data>
+  <data name="plIM.Text" xml:space="preserve">
+    <value>Instant Messenger ID:</value>
+  </data>
+  <data name="plLastName.Help" xml:space="preserve">
+    <value>Vul hier je achternaam in.</value>
+  </data>
+  <data name="plLastName.Text" xml:space="preserve">
+    <value>Achternaam:</value>
+  </data>
+  <data name="plPassword.Help" xml:space="preserve">
+    <value>Kies een wachtwoord.</value>
+  </data>
+  <data name="plPassword.Text" xml:space="preserve">
+    <value>Wachtwoord:</value>
+  </data>
+  <data name="plUserName.Help" xml:space="preserve">
+    <value>Kies een gebruikersnaam. Als de gebruikersnaam reeds bestaat, dan kun je een andere naam kiezen.</value>
+  </data>
+  <data name="plUserName.Text" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
+  </data>
+  <data name="plWebsite.Help" xml:space="preserve">
+    <value>Vul hier het adres in van je website.</value>
+  </data>
+  <data name="plWebsite.Text" xml:space="preserve">
+    <value>Website:</value>
+  </data>
+  <data name="valConfirm1.Text" xml:space="preserve">
+    <value>&lt;br /&gt;De wachtwoordcontrole moet ingevuld worden.</value>
+  </data>
+  <data name="valConfirm2.Text" xml:space="preserve">
+    <value>&lt;br /&gt;De wachtwoorden komen niet met elkaar overeen.</value>
+  </data>
+  <data name="valEmail1.Text" xml:space="preserve">
+    <value>&lt;br /&gt;Een e-mailadres moet ingevuld worden.</value>
+  </data>
+  <data name="valEmail2.Text" xml:space="preserve">
+    <value>&lt;br /&gt;Het ingevulde e-mailadres is niet correct.</value>
+  </data>
+  <data name="valFirstName.Text" xml:space="preserve">
+    <value>&lt;br /&gt;Een voornaam moet ingevuld worden.</value>
+  </data>
+  <data name="valLastName.Text" xml:space="preserve">
+    <value>&lt;br /&gt;Een achternaam moet ingevuld worden.</value>
+  </data>
+  <data name="valPassword.Text" xml:space="preserve">
+    <value>&lt;br/&gt;Een wachtwoord moet ingevuld worden.</value>
+  </data>
+  <data name="valUsername.Text" xml:space="preserve">
+    <value>&lt;br &gt;Een gebruikersnaam moet ingevuld worden.</value>
+  </data>
+</root>

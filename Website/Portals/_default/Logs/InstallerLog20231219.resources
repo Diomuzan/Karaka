@@ -1,0 +1,807 @@
+12/19/2023 09:17:47 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Controleren van aanmaken van mapControleren van aanmaken van bestandControleren van verwijderen van bestandControleren van verwijderen van map
+12/19/2023 09:17:47 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Controleren van IIS configuratie
+12/19/2023 09:17:47 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren van het Database ScriptDotNetNuke.Schema
+12/19/2023 09:17:47 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\DotNetNuke.Schema.SqlDataProvider
+12/19/2023 09:17:51 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\DotNetNuke.Schema.SqlDataProvider
+12/19/2023 09:17:51 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren van het Database ScriptDotNetNuke.Data
+12/19/2023 09:17:51 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\DotNetNuke.Data.SqlDataProvider
+12/19/2023 09:18:03 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\DotNetNuke.Data.SqlDataProvider
+12/19/2023 09:18:03 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren van Membership Database Script 
+12/19/2023 09:18:03 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallMemberRoleProvider
+12/19/2023 09:18:04 [INFO] DotNetNuke.Services.Upgrade.Upgrade End InstallMemberRoleProvider
+12/19/2023 09:18:04 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script08.00.04.01
+12/19/2023 09:18:04 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\08.00.04.01.SqlDataProvider
+12/19/2023 09:18:04 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\08.00.04.01.SqlDataProvider
+12/19/2023 09:18:05 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\08.00.04.01.SqlDataProvider
+12/19/2023 09:18:05 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\08.00.04.01.SqlDataProvider
+12/19/2023 09:18:05 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.00.00
+12/19/2023 09:18:05 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.00.00.SqlDataProvider
+12/19/2023 09:18:05 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.00.00.SqlDataProvider
+12/19/2023 09:18:05 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.00.00.SqlDataProvider
+12/19/2023 09:18:05 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.00.00.SqlDataProvider
+12/19/2023 09:18:05 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.00.00.01
+12/19/2023 09:18:05 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.00.00.01.SqlDataProvider
+12/19/2023 09:18:05 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.00.00.01.SqlDataProvider
+12/19/2023 09:18:05 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.00.00.01.SqlDataProvider
+12/19/2023 09:18:05 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.00.00.01.SqlDataProvider
+12/19/2023 09:18:05 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.00.01
+12/19/2023 09:18:05 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.00.01.SqlDataProvider
+12/19/2023 09:18:05 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.00.01.SqlDataProvider
+12/19/2023 09:18:06 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.00.01.SqlDataProvider
+12/19/2023 09:18:06 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.00.01.SqlDataProvider
+12/19/2023 09:18:06 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.01.00
+12/19/2023 09:18:06 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.01.00.SqlDataProvider
+12/19/2023 09:18:06 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.01.00.SqlDataProvider
+12/19/2023 09:18:06 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.01.00.SqlDataProvider
+12/19/2023 09:18:06 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.01.00.SqlDataProvider
+12/19/2023 09:18:06 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.01.01
+12/19/2023 09:18:06 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.01.01.SqlDataProvider
+12/19/2023 09:18:06 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.01.01.SqlDataProvider
+12/19/2023 09:18:06 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.01.01.SqlDataProvider
+12/19/2023 09:18:06 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.01.01.SqlDataProvider
+12/19/2023 09:18:06 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.02.00
+12/19/2023 09:18:06 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.02.00.SqlDataProvider
+12/19/2023 09:18:06 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.02.00.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.02.00.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.02.00.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.02.01
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.02.01.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.02.01.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.02.01.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.02.01.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.02.02
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.02.02.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.02.02.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.02.02.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.02.02.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.03.00
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.00.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.00.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.00.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.00.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.03.00.01
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.00.01.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.00.01.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.00.01.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.00.01.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.03.00.02
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.00.02.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.00.02.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.00.02.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.00.02.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.03.01
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.01.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.01.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.01.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.01.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.03.02
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.02.SqlDataProvider
+12/19/2023 09:18:07 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.03.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.04.00
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.04.01
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.04.02
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.04.03
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.03.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.03.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.03.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.03.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.04.04
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.04.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.04.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.04.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.04.04.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.05.00
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.05.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.05.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.05.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.05.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.05.01
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.05.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.05.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.05.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.05.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.06.00
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.06.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.06.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.06.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.06.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.06.01
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.06.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.06.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.06.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.06.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.06.02
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.06.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.06.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.06.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.06.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.07.00
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.07.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.07.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.07.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.07.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.07.01
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.07.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.07.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.07.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.07.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.07.02
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.07.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.07.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.07.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.07.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.08.00
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.08.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.08.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.08.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.08.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.08.01
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.08.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.08.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.08.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.08.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.09.00
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.09.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.09.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.09.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.09.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.09.01
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.09.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.09.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.09.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.09.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.09.02
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.09.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.09.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.09.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.09.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.10.01
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.10.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.10.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.10.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.10.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.10.03
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.10.03.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.10.03.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.10.03.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.10.03.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.11.00
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.11.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.11.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.11.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.11.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.11.01
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.11.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.11.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.11.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.11.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.11.02
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.11.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.11.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.11.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.11.02.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.12.00
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.12.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.12.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.12.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.12.00.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.12.01
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.12.01.SqlDataProvider
+12/19/2023 09:18:08 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.12.01.SqlDataProvider
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.12.01.SqlDataProvider
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.12.01.SqlDataProvider
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.13.00
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.13.00.SqlDataProvider
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.13.00.SqlDataProvider
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.13.00.SqlDataProvider
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.13.00.SqlDataProvider
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Uitvoeren van upgrade script09.13.01
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.13.01.SqlDataProvider
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.13.01.SqlDataProvider
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.13.01.SqlDataProvider
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:C:\Projects\Karaka\Website\Providers\DataProviders\SqlDataProvider\09.13.01.SqlDataProvider
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar8.0.4.1
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 8.0.4
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.0.0
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.0.0
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.0.0.1
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.0.0
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.0.1
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.0.1
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.1.0
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.1.0
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Host Settings
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Site Management
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Schedule
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Superuser Accounts
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Extensions
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Device Detection Management
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//Extensions
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//SiteSettings
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//SecurityRoles
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//Taxonomy
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//SiteRedirectionManagement
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//DevicePreviewManagement
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//SearchAdmin
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.MobileManagement Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Modules.PreviewProfileManagement Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.WebServer Type:DashboardControl Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.Database Type:DashboardControl Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.Host Type:DashboardControl Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.Portals Type:DashboardControl Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.Modules Type:DashboardControl Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.Skins Type:DashboardControl Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.HostSettings Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Languages Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Lists Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.LogViewer Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.RecycleBin Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Sitemap Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.SiteWizard Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:Dnn.Themes Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Tabs Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Portals Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Scheduler Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.SearchAdmin Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.SQL Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Extensions Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Configuration Manager Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Google Analytics Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Taxonomy Type:Module Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:UrlManagement Type:Library Version:
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.1.1
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.1.1
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.2.0
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.2.0
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//SearchEngineSiteMap
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//Solutions
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//BulkEmail
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Marketplace
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Module Definitions
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Portals
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddHostPage:Superuser Accounts
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:Superuser Accounts
+12/19/2023 09:18:09 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:15
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:15
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.2.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.2.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:jQuery Type:Javascript_Library Version:1.9.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:jQuery-UI Type:Javascript_Library Version:1.11.3
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:jQuery-Migrate Type:Javascript_Library Version:1.2.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.2.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.2.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.3.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.3.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.3.0.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.3.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.3.0.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.3.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.3.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.3.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.3.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.3.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.4.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.4.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.4.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.4.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.4.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.4.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.4.3
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.4.3
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.4.4
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.4.4
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.5.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.5.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.5.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.5.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.6.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.6.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.6.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.6.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.6.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.6.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.7.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.7.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.7.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.7.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.7.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.7.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.8.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.8.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.8.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.8.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.9.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.9.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.9.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.9.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.9.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.9.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.10.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.10.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.10.3
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.10.3
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.11.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.11.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.11.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.11.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.11.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.11.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.12.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.12.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.12.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.12.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.13.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.13.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie naar9.13.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.13.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor8.0.4.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:08.00.04.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:8.0.4
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:8.0.4
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:08.00.04.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.0.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.00.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.0.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.0.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.00.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.0.0.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.00.00.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.0.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.0.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.00.00.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.0.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.00.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.0.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Installer.XmlMerge Target File dotnetnuke.config doesn't exist, ignore the merge process
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.0.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.00.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.1.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.01.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.1.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.1.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.01.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.1.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.01.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.1.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.1.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.01.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.2.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.02.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.2.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.2.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.02.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.2.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.02.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.2.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.2.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.02.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.2.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.02.02
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.2.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.2.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.02.02
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.3.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.03.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.3.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.3.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.03.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.3.0.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.03.00.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.3.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.3.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.03.00.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.3.0.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.03.00.02
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.3.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.3.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.03.00.02
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.3.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.03.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.3.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.3.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.03.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.3.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.03.02
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.3.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.3.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.03.02
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.4.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.04.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.4.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=targetFramework
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=targetFramework
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.4.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.04.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.4.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.04.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.4.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.4.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.04.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.4.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.04.02
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.4.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.4.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.04.02
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.4.3
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.04.03
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.4.3
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.4.3
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.04.03
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.4.4
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.04.04
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.4.4
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.4.4
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.04.04
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.5.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.05.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.5.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=key
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.5.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.05.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.5.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.05.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.5.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.5.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.05.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.6.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.06.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.6.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=key
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.6.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.06.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.6.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.06.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.6.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.6.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.06.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.6.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.06.02
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.6.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=fileExtension
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.6.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.06.02
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.7.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.07.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.7.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.7.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.07.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.7.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.07.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.7.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.7.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.07.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.7.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.07.02
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.7.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=key
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.7.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.07.02
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.8.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.08.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.8.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Installer.XmlMerge Start InsertNode:
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.8.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.08.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.8.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.08.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.8.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.8.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.08.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.9.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.09.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.9.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.9.0
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.09.00
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.9.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.09.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.9.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.9.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.09.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.9.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.09.02
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.9.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.9.2
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.09.02
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.10.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.10.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.10.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.10.1
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.10.01
+12/19/2023 09:18:11 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.10.3
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.10.03
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.10.3
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.10.3
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.10.03
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.11.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.11.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.11.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.11.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.11.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.11.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.11.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.11.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.11.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.11.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.11.2
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.11.02
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.11.2
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.11.2
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.11.02
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.12.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.12.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.12.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.12.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.12.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.12.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.12.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.12.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.12.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.12.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.13.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.13.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.13.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.13.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.13.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Bijwerken van Config voor9.13.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.13.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.13.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.13.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.13.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor8.0.4.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:08.00.04.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.0.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.00.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.0.0.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.00.00.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.0.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.00.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.1.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.01.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.1.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.01.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.2.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.02.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.2.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.02.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.2.2
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.02.02
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.3.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.03.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.3.0.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.03.00.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.3.0.2
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.03.00.02
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.3.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.03.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.3.2
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.03.02
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.4.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.04.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.4.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.04.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.4.2
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.04.02
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.4.3
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.04.03
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.4.4
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.04.04
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.5.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.05.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.5.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.05.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.6.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.06.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.6.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.06.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.6.2
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.06.02
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.7.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.07.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.7.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.07.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.7.2
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.07.02
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.8.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.08.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.8.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.08.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.9.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.09.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.9.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.09.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.9.2
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.09.02
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.10.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.10.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.10.3
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.10.03
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.11.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.11.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.11.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.11.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.11.2
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.11.02
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.12.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.12.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.12.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.12.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.13.0
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.13.00
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Verwijderen van oudere bestanden voor9.13.1
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.13.01
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Upgraden van de Applicatie
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Library - AspNetMvc_5.2.61129.10_Install.zip
+12/19/2023 09:18:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Library\AspNetMvc_5.2.61129.10_Install.zip
+12/19/2023 09:18:13 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:18:13 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Library - AspNetWebApi_5.2.61129.10_Install.zip
+12/19/2023 09:18:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Library\AspNetWebApi_5.2.61129.10_Install.zip
+12/19/2023 09:18:13 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Library - AspNetWebPages_3.0.61129.10_Install.zip
+12/19/2023 09:18:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Library\AspNetWebPages_3.0.61129.10_Install.zip
+12/19/2023 09:18:17 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Library - MailKit_2.15.0.0_Install.zip
+12/19/2023 09:18:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Library\MailKit_2.15.0.0_Install.zip
+12/19/2023 09:18:18 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Module - DDRMenu_09.13.01_Install.zip
+12/19/2023 09:18:18 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\DDRMenu_09.13.01_Install.zip
+12/19/2023 09:18:18 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:18:18 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Library - SharpZipLib_1.3.3.11_Install.zip
+12/19/2023 09:18:18 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Library\SharpZipLib_1.3.3.11_Install.zip
+12/19/2023 09:18:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Library - MicrosoftGlobbing_5.0.20.51904_Install.zip
+12/19/2023 09:18:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Library\MicrosoftGlobbing_5.0.20.51904_Install.zip
+12/19/2023 09:18:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Library - WebFormsMvp_1.4.5.0_Install.zip
+12/19/2023 09:18:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Library\WebFormsMvp_1.4.5.0_Install.zip
+12/19/2023 09:18:19 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Library - Dnn.EditBar.UI_09.13.01_Install.zip
+12/19/2023 09:18:19 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\Dnn.EditBar.UI_09.13.01_Install.zip
+12/19/2023 09:18:19 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:18:20 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Library - Dnn.PersonaBar.UI_09.13.01_Install.zip
+12/19/2023 09:18:20 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\Dnn.PersonaBar.UI_09.13.01_Install.zip
+12/19/2023 09:18:20 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:
+12/19/2023 09:18:20 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:
+12/19/2023 09:18:20 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:
+12/19/2023 09:18:20 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:
+12/19/2023 09:18:20 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:18:21 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Connector - DNNCE_AzureConnector_09.13.01_Install.zip
+12/19/2023 09:18:21 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\DNNCE_AzureConnector_09.13.01_Install.zip
+12/19/2023 09:18:21 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Module - DNNCE_Console_09.13.01_Install.zip
+12/19/2023 09:18:21 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\DNNCE_Console_09.13.01_Install.zip
+12/19/2023 09:18:21 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Module - DNNCE_CoreMessaging_09.13.01_Install.zip
+12/19/2023 09:18:21 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\DNNCE_CoreMessaging_09.13.01_Install.zip
+12/19/2023 09:18:22 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Module - DNNCE_HTML_09.13.01_Install.zip
+12/19/2023 09:18:22 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\DNNCE_HTML_09.13.01_Install.zip
+12/19/2023 09:18:23 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Module - DNNCE_HtmlEditorManager_09.13.01_Install.zip
+12/19/2023 09:18:23 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\DNNCE_HtmlEditorManager_09.13.01_Install.zip
+12/19/2023 09:18:23 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Module - DNNCE_Journal_09.13.01_Install.zip
+12/19/2023 09:18:23 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\DNNCE_Journal_09.13.01_Install.zip
+12/19/2023 09:18:23 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Module - DNNCE_MemberDirectory_09.13.01_Install.zip
+12/19/2023 09:18:23 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\DNNCE_MemberDirectory_09.13.01_Install.zip
+12/19/2023 09:18:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Module - DNNCE_RazorHost_09.13.01_Install.zip
+12/19/2023 09:18:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\DNNCE_RazorHost_09.13.01_Install.zip
+12/19/2023 09:18:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Module - DNNCE_ResourceManager_09.13.01_Install.zip
+12/19/2023 09:18:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\DNNCE_ResourceManager_09.13.01_Install.zip
+12/19/2023 09:18:25 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Library - DNNCE_SiteExportImport_09.13.01_Install.zip
+12/19/2023 09:18:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\DNNCE_SiteExportImport_09.13.01_Install.zip
+12/19/2023 09:18:26 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Module - DNNCE_SocialGroups_09.13.01_Install.zip
+12/19/2023 09:18:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\DNNCE_SocialGroups_09.13.01_Install.zip
+12/19/2023 09:18:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Module - DNNCE_TelerikRemoval_09.13.01_Install.zip
+12/19/2023 09:18:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\DNNCE_TelerikRemoval_09.13.01_Install.zip
+12/19/2023 09:18:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Connector - GoogleAnalytics4Connector_09.13.01_Install.zip
+12/19/2023 09:18:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\GoogleAnalytics4Connector_09.13.01_Install.zip
+12/19/2023 09:18:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Connector - GoogleAnalyticsConnector_09.13.01_Install.zip
+12/19/2023 09:18:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\GoogleAnalyticsConnector_09.13.01_Install.zip
+12/19/2023 09:18:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Connector - GoogleTagManagerConnector_09.13.01_Install.zip
+12/19/2023 09:18:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\GoogleTagManagerConnector_09.13.01_Install.zip
+12/19/2023 09:18:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Library - Newtonsoft.Json_13.0.3.27908_Install.zip
+12/19/2023 09:18:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\Newtonsoft.Json_13.0.3.27908_Install.zip
+12/19/2023 09:18:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Skin - Skin_Xcillion_09.13.01_Install.zip
+12/19/2023 09:18:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Skin\Skin_Xcillion_09.13.01_Install.zip
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren JavaScript_Library - jQuery.iframe-transport_10.07.00_Install.zip
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\JavaScriptLibrary\jQuery.iframe-transport_10.07.00_Install.zip
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren JavaScript_Library - jQuery_03.07.01_Install.zip
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\JavaScriptLibrary\jQuery_03.07.01_Install.zip
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren JavaScript_Library - Knockout_03.05.01_Install.zip
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\JavaScriptLibrary\Knockout_03.05.01_Install.zip
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren JavaScript_Library - Selectize_00.12.06_Install.zip
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\JavaScriptLibrary\Selectize_00.12.06_Install.zip
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Provider - AspNetClientCapabilityProvider_09.13.01_Install.zip
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Provider\AspNetClientCapabilityProvider_09.13.01_Install.zip
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Provider - DNN_SimpleWebFarmCachingProvider_09.13.01_Install.zip
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Provider\DNN_SimpleWebFarmCachingProvider_09.13.01_Install.zip
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Library - DNNCE_ExchangeOnlineAuthProvider_09.13.01_Install.zip
+12/19/2023 09:18:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Provider\DNNCE_ExchangeOnlineAuthProvider_09.13.01_Install.zip
+12/19/2023 09:18:29 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Provider - DNNCE_FolderProviders_09.13.01_Install.zip
+12/19/2023 09:18:29 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Provider\DNNCE_FolderProviders_09.13.01_Install.zip
+12/19/2023 09:18:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:18:29 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Library - DNNCE_GoogleMailAuthProvider_09.13.01_Install.zip
+12/19/2023 09:18:29 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Provider\DNNCE_GoogleMailAuthProvider_09.13.01_Install.zip
+12/19/2023 09:18:30 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren Provider - DNNConnect.CKEditorProvider_09.13.01_Install.zip
+12/19/2023 09:18:30 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Provider\DNNConnect.CKEditorProvider_09.13.01_Install.zip
+12/19/2023 09:18:32 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:18:32 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren PersonaBar - Dnn.PersonaBar.Extensions_09.13.01_Install.zip
+12/19/2023 09:18:32 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\Module\Dnn.PersonaBar.Extensions_09.13.01_Install.zip
+12/19/2023 09:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren JavaScript_Library - HoverIntent_01.10.01_Install.zip
+12/19/2023 09:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\JavaScriptLibrary\HoverIntent_01.10.01_Install.zip
+12/19/2023 09:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren JavaScript_Library - jQueryMigrate_03.04.01_Install.zip
+12/19/2023 09:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\JavaScriptLibrary\jQueryMigrate_03.04.01_Install.zip
+12/19/2023 09:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren JavaScript_Library - jQueryUI_01.13.02_Install.zip
+12/19/2023 09:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\JavaScriptLibrary\jQueryUI_01.13.02_Install.zip
+12/19/2023 09:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren JavaScript_Library - KnockoutMapping_02.04.01_Install.zip
+12/19/2023 09:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\JavaScriptLibrary\KnockoutMapping_02.04.01_Install.zip
+12/19/2023 09:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren JavaScript_Library - DnnPlugins_09.13.01_Install.zip
+12/19/2023 09:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\JavaScriptLibrary\DnnPlugins_09.13.01_Install.zip
+12/19/2023 09:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Installeren JavaScript_Library - jQuery.Fileupload_10.07.00_Install.zip
+12/19/2023 09:18:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\JavaScriptLibrary\jQuery.Fileupload_10.07.00_Install.zip
+12/19/2023 09:18:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Doorvoeren van applicatiebeheerder instellingen
+12/19/2023 09:18:38 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Site aanmaken [Karaka]
+12/19/2023 09:18:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:C:\Projects\Karaka\Website\Install\language\installlanguage.resources
+12/19/2023 09:18:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade StartCreateUserInfo:riza@bondforwebsolutions.nl
+12/19/2023 09:18:52 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applicatiebeheerder aanmaken
+12/19/2023 09:18:52 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Applicatiebeheerder aanmakenriza@bondforwebsolutions.nl
+12/19/2023 09:18:52 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep Checking HTTPS for site Karaka
+12/19/2023 09:24:10 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddHostPage:HTML Editor Manager
+12/19/2023 09:24:10 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:HTML Editor Manager
+12/19/2023 09:24:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveModule:RadEditor Manager
+12/19/2023 09:24:11 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:115
+12/19/2023 09:24:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:115
+12/19/2023 09:24:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddHostPage:Global Assets
+12/19/2023 09:24:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:Global Assets
+12/19/2023 09:24:12 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:119
+12/19/2023 09:24:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:119
+12/19/2023 09:24:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:File Manager
+12/19/2023 09:24:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:File Management
+12/19/2023 09:24:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddHostPage:Telerik Removal
+12/19/2023 09:24:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:Telerik Removal
+12/19/2023 09:24:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:121
+12/19/2023 09:24:13 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:121
+12/19/2023 09:34:28 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=assembly
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start RemoveNode:
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start RemoveNode:
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=assembly
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=oldVersion
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start InsertNode:
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start InsertNode:
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:<assemblyIdentity name="Microsoft.Extensions.DependencyInjection.Abstractions" publicKeyToken="adb9793829ddae60" xmlns="urn:schemas-microsoft-com:asm.v1" /><codeBase version="2.2.0.0" href="bin\Imageflow\Microsoft.Extensions.DependencyInjection.Abstractions.dll" xmlns="urn:schemas-microsoft-com:asm.v1" />
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:<assemblyIdentity name="Microsoft.Extensions.DependencyInjection" publicKeyToken="adb9793829ddae60" xmlns="urn:schemas-microsoft-com:asm.v1" /><codeBase version="2.2.0.0" href="bin\Imageflow\Microsoft.Extensions.DependencyInjection.dll" xmlns="urn:schemas-microsoft-com:asm.v1" />
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:<assemblyIdentity name="Microsoft.Extensions.FileProviders.Abstractions" publicKeyToken="adb9793829ddae60" xmlns="urn:schemas-microsoft-com:asm.v1" /><codeBase version="2.2.0.0" href="bin\Imageflow\Microsoft.Extensions.FileProviders.Abstractions.dll" xmlns="urn:schemas-microsoft-com:asm.v1" />
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:<assemblyIdentity name="Microsoft.Extensions.Hosting.Abstractions" publicKeyToken="adb9793829ddae60" xmlns="urn:schemas-microsoft-com:asm.v1" /><codeBase version="2.2.0.0" href="bin\Imageflow\Microsoft.Extensions.Hosting.Abstractions.dll" xmlns="urn:schemas-microsoft-com:asm.v1" />
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=oldVersion
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start InsertNode:
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start InsertNode:
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=oldVersion
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start InsertNode:
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start InsertNode:
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:<assemblyIdentity name="Microsoft.IO.RecyclableMemoryStream" publicKeyToken="31bf3856ad364e35" xmlns="urn:schemas-microsoft-com:asm.v1" /><codeBase version="1.2.2.0" href="bin\Imageflow\Microsoft.IO.RecyclableMemoryStream.dll" xmlns="urn:schemas-microsoft-com:asm.v1" />
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=oldVersion
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start InsertNode:
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start InsertNode:
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=oldVersion
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start InsertNode:
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start InsertNode:
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=oldVersion
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start InsertNode:
+12/19/2023 09:34:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start InsertNode:
