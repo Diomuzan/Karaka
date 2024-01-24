@@ -1,0 +1,20 @@
+2024-01-24T09:33:10 17.01.02 - UpgradeModule starting
+2024-01-24T09:33:10 17.01.02 - IsUpgradeComplete checking - Check on Start UpgradeModule
+2024-01-24T09:33:10 17.01.02 - File checked: 'C:\Projects\Karaka\Website\desktopmodules\tosic_sexycontent\Upgrade\Log\17.01.02.resources'
+2024-01-24T09:33:10 17.01.02 - IsUpgradeComplete: False
+2024-01-24T09:33:10 17.01.02 - version / upgrade-complete test passed
+2024-01-24T09:33:10 17.01.02 - is-upgrade-running test passed
+2024-01-24T09:33:10  - set upgrade running - True
+2024-01-24T09:33:10  - set upgrade running - True - error!
+2024-01-24T09:33:10 17.01.02 - ----- Upgrade to 17.01.02 started -----
+2024-01-24T09:33:10 17.01.02 - version-list check / switch done
+2024-01-24T09:33:10 17.01.02 - ClientResourceManager- seems to be last item in version-list, will clear
+2024-01-24T09:33:10 17.01.02 - ClientResourceManager- done clearing
+2024-01-24T09:33:10 15.02.00 - IsUpgradeComplete checking - first check
+2024-01-24T09:33:10 15.02.00 - File checked: 'C:\Projects\Karaka\Website\desktopmodules\tosic_sexycontent\Upgrade\Log\15.02.00.resources'
+2024-01-24T09:33:10 15.02.00 - IsUpgradeComplete: True
+2024-01-24T09:33:10 17.01.02 - updated upgrade-complete status to True
+2024-01-24T09:33:10 17.01.02 - ----- Upgrade to 17.01.02 completed -----
+2024-01-24T09:33:10  - set upgrade running - False
+2024-01-24T09:33:10  - set upgrade running - False - done
+2024-01-24T09:33:10 17.01.02 - UpgradeModule done / returning
