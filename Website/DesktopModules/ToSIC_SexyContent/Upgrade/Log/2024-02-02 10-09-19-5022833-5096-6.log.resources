@@ -1,0 +1,11 @@
+2024-02-02T10:09:19 01.00.00 - UpgradeModule starting
+2024-02-02T10:09:19 01.00.00 - version / upgrade-complete test passed
+2024-02-02T10:09:19 01.00.00 - is-upgrade-running test passed
+2024-02-02T10:09:19  - set upgrade running - True
+2024-02-02T10:09:19  - set upgrade running - True - done
+2024-02-02T10:09:19 01.00.00 - ----- Upgrade to 01.00.00 started -----
+2024-02-02T10:09:19 01.00.00 - version-list check / switch done
+2024-02-02T10:09:19 01.00.00 - ----- Upgrade to 01.00.00 completed -----
+2024-02-02T10:09:19  - set upgrade running - False
+2024-02-02T10:09:19  - set upgrade running - False - done
+2024-02-02T10:09:19 01.00.00 - UpgradeModule done / returning
